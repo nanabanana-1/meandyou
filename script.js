@@ -16,15 +16,15 @@ function nivel(xp){
 }
 
 function tituloVit(n){
- if(n>=10) return "👑 Rainha da Hip Thrust";
- if(n>=5) return "⚔️ Guardiã das Pernas";
- return "🍑 Aprendiz dos Glúteos";
+ if(n>=10) return "★ Rainha da Hip Thrust";
+ if(n>=5) return "★ Guardiã das Pernas";
+ return "★ basic";
 }
 
 function tituloRob(n){
- if(n>=10) return "👑 Mestre da Evolução";
- if(n>=5) return "⚔️ Guerreiro da Disciplina";
- return "💪 Iniciante Determinado";
+ if(n>=10) return "★ Mestre da Evolução";
+ if(n>=5) return "★ Guerreiro da Disciplina";
+ return "★ Iniciante Determinado";
 }
 
 function salvarLocal(){
@@ -45,7 +45,7 @@ function registrarTreino(){
  data.casal.xp+=5;
 
  atualizar();
- alert("🎉 Treino registrado!");
+ alert("Treino registrado b★by!");
 }
 
 function salvarTudo(){
