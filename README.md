@@ -4,14 +4,6 @@ um site simples criado para mim e meu namorado, com o objetivo de deixar os trei
 
 
 <h2> a gente pode: </h2>
-- Registrar treinos juntos
-- Acompanhar XP individual e do casal
-- Visualizar nível de evolução
-- Criar e salvar um diário semanal
-- Acompanhar peso e medidas
-- Desbloquear conquistas (badges)
-
-<h2> Funcionalidades </h2>
 ☆ Registro de treinos
 ☆ Sistema de XP e níveis
 ☆ Sistema de conquistas (badges)
